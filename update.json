@@ -1,5 +1,8 @@
 {
   "latest_version": "1.7.0",
-  "apk_url": "URL_DO_APK_AQUI",
-  "release_notes": "Testeeee"
+  "apk_url": "url",
+  "release_notes": "Relançamento do aplicativo, com novas funções e códigos atualizados",
+  "history": [
+    { "v": "1.7.0", "notes": "Relançamento do aplicativo, com novas funções e códigos atualizados" }
+  ]
 }
