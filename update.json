@@ -1,11 +1,15 @@
 {
-  "latest_version": "1.8.0",
-  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.8.0/Controle_Academia_1.8.0.apk",
-  "release_notes": "Ajuste inputs da execução, adição glow no histórico, adicição tempo de descanso 1 minuto, ajuste no filtro dos treinos aba treino, adição pesquisa do exercicio no treino ativo, ajuste método de pesquisa.",
+  "latest_version": "1.9.0",
+  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.9.0/Controle_Academia_1.9.0.apk",
+  "release_notes": "Adição de sistema para treijo conjunto, Ajuste de bugs antigos e novos, Ajustes no exportar e importar, Ajustes no histórico, Ajustes nas telas de treino ativo, Ajustes pontuais." ,
   "history": [
     { 
+      "v": "1.9.0", 
+      "notes": "Adição de sistema para treijo conjunto, Ajuste de bugs antigos e novos, Ajustes no exportar e importar, Ajustes no histórico, Ajustes nas telas de treino ativo, Ajustes pontuais." 
+    },
+    { 
       "v": "1.8.0", 
-      "notes": "Ajuste inputs da execução, adição glow no histórico, adicição tempo de descanso 1 minuto, ajuste no filtro dos treinos aba treino, adição pesquisa do exercicio no treino ativo, ajuste método de pesquisa." 
+      "notes": "Ajuste inputs da execução, Adição glow no histórico, Adição tempo de descanso 1 minuto, Ajuste no filtro dos treinos aba treino, Adição pesquisa do exercicio no treino ativo, Ajuste método de pesquisa." 
     },
     { 
       "v": "1.7.1", 
