@@ -1,8 +1,15 @@
 {
-  "latest_version": "1.7.0",
-  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.7.0/Controle_Academia_1.7.0.apk",
-  "release_notes": "Relançamento do aplicativo, com novas funções e códigos atualizados",
+  "latest_version": "1.7.1",
+  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.7.1/Controle_Academia_1.7.1.apk",
+  "release_notes": "Ajuste de ícones e sistema de atualização.",
   "history": [
-    { "v": "1.7.0", "notes": "Relançamento do aplicativo, com novas funções e códigos atualizados" }
+    { 
+      "v": "1.7.1", 
+      "notes": "Ajuste de ícones e sistema de atualização." 
+    },
+    { 
+      "v": "1.7.0", 
+      "notes": "Relançamento do aplicativo, com novas funções e códigos atualizados." 
+    }
   ]
 }
