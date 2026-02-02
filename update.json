@@ -1,8 +1,12 @@
 {
-  "latest_version": "1.7.1",
-  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.7.1/Controle_Academia_1.7.1.apk",
-  "release_notes": "Ajuste de ícones e sistema de atualização.",
+  "latest_version": "1.8.0",
+  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.8.0/Controle_Academia_1.8.0.apk",
+  "release_notes": "Ajuste inputs da execução, adição glow no histórico, adicição tempo de descanso 1 minuto, ajuste no filtro dos treinos aba treino, adição pesquisa do exercicio no treino ativo, ajuste método de pesquisa.",
   "history": [
+    { 
+      "v": "1.8.0", 
+      "notes": "Ajuste inputs da execução, adição glow no histórico, adicição tempo de descanso 1 minuto, ajuste no filtro dos treinos aba treino, adição pesquisa do exercicio no treino ativo, ajuste método de pesquisa." 
+    },
     { 
       "v": "1.7.1", 
       "notes": "Ajuste de ícones e sistema de atualização." 
