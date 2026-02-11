@@ -1,8 +1,12 @@
 {
-  "latest_version": "1.9.1",
-  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.9.1/Controle_Academia_1.9.1.apk",
-  "release_notes": "Adição de histórico treinos conjuntos, Ajuste em funções para realizar exercício do parceiro, Ajustes no histórico para melhor visualização." ,
+  "latest_version": "1.10.0",
+  "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.10.0/Controle_Academia_1.10.0.apk",
+  "release_notes": "Adição da possibilidade de exclusão de um exercício extra, Ajustes no histórico, Ajustes nos cards de últimos treinos no geral, Ajustes nos inputs de execução de exercícios, Ajustes nos cronometros, Ajuste de lógica de treinos bi-sets, Adicionado avaliação ao finalizar o treino, Adicionado organização da ordem dos exercícios no treino ativo, Adicionado botão para pesquisa de alternativas para exercício, Ajustes pontuais." ,
   "history": [
+    { 
+      "v": "1.10.0", 
+      "notes": "Adição da possibilidade de exclusão de um exercício extra, Ajustes no histórico, Ajustes nos cards de últimos treinos no geral, Ajustes nos inputs de execução de exercícios, Ajustes nos cronometros, Ajuste de lógica de treinos bi-sets, Adicionado avaliação ao finalizar o treino, Adicionado organização da ordem dos exercícios no treino ativo, Adicionado botão para pesquisa de alternativas para exercício, Ajustes pontuais." 
+    },
     { 
       "v": "1.9.1", 
       "notes": "Adição de histórico treinos conjuntos, Ajuste em funções para realizar exercício do parceiro, Ajustes no histórico para melhor visualização." 
