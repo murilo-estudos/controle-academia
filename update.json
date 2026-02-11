@@ -1,31 +1,31 @@
 {
   "latest_version": "1.10.0",
   "apk_url": "https://github.com/murilo-estudos/controle-academia/releases/download/v1.10.0/Controle_Academia_1.10.0.apk",
-  "release_notes": "Adição da possibilidade de exclusão de um exercício extra, Ajustes no histórico, Ajustes nos cards de últimos treinos no geral, Ajustes nos inputs de execução de exercícios, Ajustes nos cronometros, Ajuste de lógica de treinos bi-sets, Adicionado avaliação ao finalizar o treino, Adicionado organização da ordem dos exercícios no treino ativo, Adicionado botão para pesquisa de alternativas para exercício, Ajustes pontuais." ,
+  "release_notes": "• Exclusão de exercícios extras\n• Reordenação de exercícios no treino ativo\n• Pesquisa de alternativas/substitutos\n• Avaliação do treino (1-5 estrelas + comentário)\n• Correção na lógica de bi-sets\n• Novo layout dos inputs de execução\n• Ajustes nos cronômetros e histórico\n• Melhorias gerais nos cards de últimos treinos",
   "history": [
-    { 
-      "v": "1.10.0", 
-      "notes": "Adição da possibilidade de exclusão de um exercício extra, Ajustes no histórico, Ajustes nos cards de últimos treinos no geral, Ajustes nos inputs de execução de exercícios, Ajustes nos cronometros, Ajuste de lógica de treinos bi-sets, Adicionado avaliação ao finalizar o treino, Adicionado organização da ordem dos exercícios no treino ativo, Adicionado botão para pesquisa de alternativas para exercício, Ajustes pontuais." 
+    {
+      "v": "1.10.0",
+      "notes": "• Exclusão de exercícios extras\n• Reordenação de exercícios no treino ativo\n• Pesquisa de alternativas\n• Avaliação ao finalizar o treino\n• Ajuste na lógica de bi-sets\n• Ajustes nos inputs de execução e cronômetros\n• Ajustes no histórico e cards gerais"
     },
-    { 
-      "v": "1.9.1", 
-      "notes": "Adição de histórico treinos conjuntos, Ajuste em funções para realizar exercício do parceiro, Ajustes no histórico para melhor visualização." 
+    {
+      "v": "1.9.1",
+      "notes": "• Histórico de treinos conjuntos\n• Função para realizar exercício do parceiro\n• Melhorias visuais no histórico"
     },
-    { 
-      "v": "1.9.0", 
-      "notes": "Adição de sistema para treino conjunto, Ajuste de bugs antigos e novos, Ajustes no exportar e importar, Ajustes no histórico, Ajustes nas telas de treino ativo, Ajustes pontuais." 
+    {
+      "v": "1.9.0",
+      "notes": "• Sistema de treino conjunto (Parceiro)\n• Ajustes no Importar/Exportar dados\n• Correção de bugs gerais\n• Ajustes nas telas de treino ativo"
     },
-    { 
-      "v": "1.8.0", 
-      "notes": "Ajuste inputs da execução, Adição glow no histórico, Adição tempo de descanso 1 minuto, Ajuste no filtro dos treinos aba treino, Adição pesquisa do exercício no treino ativo, Ajuste método de pesquisa." 
+    {
+      "v": "1.8.0",
+      "notes": "• Ajuste nos inputs de execução\n• Efeito visual (glow) no histórico\n• Tempo de descanso de 1 minuto\n• Filtro de treinos na aba principal\n• Pesquisa de exercício no treino ativo"
     },
-    { 
-      "v": "1.7.1", 
-      "notes": "Ajuste de ícones e sistema de atualização." 
+    {
+      "v": "1.7.1",
+      "notes": "• Ajuste de ícones\n• Melhoria no sistema de atualização"
     },
-    { 
-      "v": "1.7.0", 
-      "notes": "Relançamento do aplicativo, com novas funções e códigos atualizados." 
+    {
+      "v": "1.7.0",
+      "notes": "• Relançamento do aplicativo\n• Novos códigos e funções atualizadas"
     }
   ]
 }
